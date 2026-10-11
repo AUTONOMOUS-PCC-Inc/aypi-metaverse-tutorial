@@ -77,6 +77,10 @@ npm run dev
 고칠 파일은 `web3d/src/experience.jsx` 하나입니다. 오전에 만든 GLB를
 `web3d/public/` 에 넣고 AI에게 올려 달라고 시키세요.
 
+심화에서 쓸 캐릭터는 `web3d/public/Robot.glb` 에 들어 있습니다.
+`Idle` · `Walk` · `Run` · `Fast Run` · `Jump` 애니메이션이 함께 들어 있어서,
+WASD로 걸릴 때 애니메이션을 바꿔 주는 것까지 해 볼 수 있습니다.
+
 ### 망쳤을 때
 
 ```bat
@@ -112,6 +116,7 @@ git --version
 
 | 파일 | 출처 | 라이선스 |
 |---|---|---|
+| `Robot.glb` | 강사 제작 (Mixamo 표준 리그 + 애니메이션 5개) | 교육 과정 내 사용 |
 | `room-transformed.glb` | [Room](https://sketchfab.com/3d-models/room-6417cbc1870a4a1691cca06912ae0369) by **Anex** (Sketchfab) | **CC BY 4.0** |
 | `monkey.glb` | Suzanne (Blender 기본 메시) | 공개 |
 | `hdri/adamsbridge.hdr` | [Poly Haven](https://polyhaven.com) | CC0 |

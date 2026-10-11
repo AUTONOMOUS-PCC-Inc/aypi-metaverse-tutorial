@@ -28,6 +28,7 @@ npm run dev
 |---|---|
 | `monkey.glb` | 불러오기 연습용 |
 | `room-transformed.glb` | 가상공간 |
+| `Robot.glb` | 심화 — 캐릭터. `Idle`/`Walk`/`Run`/`Fast Run`/`Jump` 애니메이션 포함 |
 | `hdri/adamsbridge.hdr` | 배경·환경맵 |
 
 출처와 라이선스는 [../ATTRIBUTION.md](../ATTRIBUTION.md).

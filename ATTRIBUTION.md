@@ -7,12 +7,24 @@
 
 | 파일 | 제목 | 작성자 | 라이선스 | 원본 |
 |---|---|---|---|---|
+| `web3d/public/Robot.glb` | Robot | **AUTONOMOUS PCC 강사 제작** | 교육 과정 내 사용 | — |
 | `web3d/public/room-transformed.glb` | Room | Anex | [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Sketchfab](https://sketchfab.com/3d-models/room-6417cbc1870a4a1691cca06912ae0369) |
 | `web3d/public/monkey.glb` | Suzanne | Blender Foundation | Blender 기본 메시 | [blender.org](https://www.blender.org) |
 | `web3d/public/hdri/adamsbridge.hdr` | Adams Place Bridge | Poly Haven | CC0 | [Poly Haven](https://polyhaven.com/a/adams_place_bridge) |
 
 `room-transformed.glb` 는 **CC BY 4.0** 이므로 이 저장소를 쓰는 결과물에도
 위 출처 표기를 남겨 주세요.
+
+### `Robot.glb` 에 대해
+
+강사가 수업용으로 만든 캐릭터입니다. **Mixamo 표준 리그**(본 이름이
+`mixamorig:` 로 시작)와 Mixamo 애니메이션 클립 5개(`Idle`, `Walk`, `Run`,
+`Fast Run`, `Jump`)를 사용해 Blender에서 내보냈습니다.
+
+이 캠프 수업과 그 과제에 쓰는 것은 문제가 없습니다. 다만 **이 파일만 따로
+떼어 다른 곳에 재배포하거나 에셋으로 판매하는 것은** Mixamo(Adobe) 약관에
+걸릴 수 있으니 하지 마세요. 본인 프로젝트에 캐릭터가 필요하면 아래 CC0
+출처에서 받는 편이 안전합니다.
 
 ## 일부러 뺀 것
 
@@ -21,18 +33,17 @@
 
 | 파일 | 이유 |
 |---|---|
-| `Robot.glb` | **Mixamo**(Adobe) 캐릭터. 리그 이름이 `mixamorig:` 로 시작한다. Adobe 약관상 원본 파일 재배포가 제한된다 |
 | `books_with_magnifier.glb` | **CC BY-NC-SA 4.0** — 비상업 + 동일조건변경허락 |
 | `lambo.glb` | **CC BY-NC 4.0** — 비상업 |
 | `TreeBoy.glb`, `gem3.glb`, `compressed.glb`, `lake_pier_4k.hdr` 등 | 이번 3시간 과정에서 쓰지 않는다 |
 
-## 캐릭터가 필요하다면
+## 에셋을 더 받고 싶다면
 
-Mixamo 대신 재배포가 자유로운 곳을 쓰는 편이 낫습니다.
+재배포가 자유로운 곳입니다. 전부 CC0이라 출처 표기 없이도 쓸 수 있습니다.
 
-- [Quaternius](https://quaternius.com) — CC0, 애니메이션 포함 캐릭터
-- [Kenney](https://kenney.nl/assets) — CC0
-- [Poly Haven](https://polyhaven.com) — CC0 (HDRI·텍스처·모델)
+- [Quaternius](https://quaternius.com) — 애니메이션 포함 캐릭터, 소품
+- [Kenney](https://kenney.nl/assets) — 저폴리 모델, UI
+- [Poly Haven](https://polyhaven.com) — HDRI · 텍스처 · 모델
 
 ## 코드
 
