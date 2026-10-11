@@ -203,17 +203,12 @@ git restore .
 
 ## 만든 사람들
 
-|     PI     |     EL     |   EM   |    EM    |    EM    |    EM    |
-|   :-----:   |   :-----:   | :------: |   :-----:   |   :-----:   |   :-----:   |
-|   Sungho Park(Prof)    |   Aaron Yoon    |   Sungjoon Yang    |   Hoil Lee    |   Jeseok Oh    |   Kibum Yun    |
+|     EL     |
+|   :-----:   |
+|   Aaron Yoon    |
 
 <!--
-PI: Sungho Park
 EL: Aaron Yoon
-EM: Sungjoon Yang
-EM: Hoil Lee
-EM: Jeseok Oh
-EM: Kibum Yun
 -->
 
 `cad/examples/` 의 OpenSCAD 예제와 `web3d/` 의 소스는 이 과정을 위해 쓴 것입니다.
