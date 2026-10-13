@@ -1,13 +1,7 @@
 # 프로젝트 규칙
-- React 18, @react-three/fiber 8, drei 9, three 0.153 기준
-- 새 패키지 설치 전에 먼저 물어볼 것
-- 3D 에셋은 public/ 파일만 사용
-- 바꾼 내용과 이유를 3줄로 설명
 
-# public 에셋 (이 파일들만 있다)
-| 파일 | 내용 |
-|---|---|
-| `Robot.glb` | 캐릭터. 애니메이션 `Idle` `Walk` `Run` `Fast Run` `Jump` — drei `useAnimations` 로 재생 |
-| `room-transformed.glb` | 방 |
-| `monkey.glb` | Suzanne |
-| `hdri/adamsbridge.hdr` | 환경맵 — drei `Environment files=` |
+규칙은 저장소 맨 위 [`AGENTS.md`](../AGENTS.md) 한 곳에 모아 두었습니다.
+버전·에셋 목록·되돌리는 법이 전부 거기 있습니다.
+
+(이 파일은 `AGENTS.md` 를 읽지 않는 도구를 위한 안내입니다. 두 벌로 적어 두면
+반드시 어긋나므로 내용은 옮기지 않았습니다.)
