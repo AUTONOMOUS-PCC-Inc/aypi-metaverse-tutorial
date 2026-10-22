@@ -73,3 +73,14 @@ npm run dev
 ```bat
 git restore .
 ```
+
+## 이벤트 약속
+
+| 방향 | 이벤트 | 데이터 |
+|---|---|---|
+| client → server | `join` | 이름 문자열 |
+| client → server | `update` | `{ animationName, position: [x, y, z], rotationY }` |
+| client → server | `talk` | 메시지 문자열 |
+| server → 모두 | `characters` | `[{ key, name, animationName, position, rotationY, talk }]` |
+
+- 앞으로 이벤트 이름이나 데이터 형식을 바꿀 때는 **이 표부터 수정한 뒤** 관련 코드를 변경합니다.

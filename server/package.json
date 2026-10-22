@@ -1,0 +1,15 @@
+{
+  "name": "metaverse-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "socket.io": "4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.14"
+  }
+}
