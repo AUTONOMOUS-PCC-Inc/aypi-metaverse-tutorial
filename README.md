@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AUTONOMOUS-PCC-Inc/.github/main/mirrors/assets/metaverse-banner.svg" alt="바이브코딩 캠프 2회차 — 말로 설명해 형상을 만들고, GLB로 내보내, 내가 만든 웹 3D 공간에 놓는다" width="100%">
+<img src="https://raw.githubusercontent.com/AUTONOMOUS-PCC-Inc/.github/main/mirrors/assets/metaverse-banner.svg" alt="바이브코딩 캠프 3회차 — 말로 설명해 형상을 만들고, GLB로 내보내, 내가 만든 웹 3D 공간에 놓는다" width="100%">
 
 ### 말로 만든 3D 모델을, 내가 만든 가상 공간에 놓는다.
 
-AUTONOMOUS PCC 바이브코딩 캠프 **2회차(메타버스와 CAD)** 실습 저장소입니다.<br>
+AUTONOMOUS PCC 바이브코딩 캠프 **3회차(메타버스와 CAD)** 실습 저장소입니다.<br>
 오전에 말로 설명해 만든 모델이, 오후에 직접 만든 웹 3D 공간의 재료가 됩니다.
 
-![Day](https://img.shields.io/badge/과정-2회차%20하루-0B1B33?style=for-the-badge)
+![Day](https://img.shields.io/badge/과정-3회차%20하루-0B1B33?style=for-the-badge)
 ![AM](https://img.shields.io/badge/오전-text--to--CAD-1E6FD9?style=for-the-badge)
 ![PM](https://img.shields.io/badge/오후-React%20Three%20Fiber-7C3AED?style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.js-LTS-16A34A?style=for-the-badge)
@@ -215,11 +215,12 @@ EL: Aaron Yoon
 `cad/examples/` 의 OpenSCAD 예제와 `web3d/` 의 소스는 이 과정을 위해 쓴 것입니다.
 3D 에셋은 각자 라이선스가 다르니 [`ATTRIBUTION.md`](ATTRIBUTION.md)를 보세요.
 
-1회차 실습 저장소는 [`aypi-car-tutorial`](https://github.com/AUTONOMOUS-PCC-Inc/aypi-car-tutorial) 입니다.
+1회차 실습 저장소는 [`aypi-car-tutorial`](https://github.com/AUTONOMOUS-PCC-Inc/aypi-car-tutorial),
+2회차는 [`aypi-turtlebot-tutorial`](https://github.com/AUTONOMOUS-PCC-Inc/aypi-turtlebot-tutorial) 입니다.
 
 ---
 
 <div align="center">
-<sub><strong>AUTONOMOUS PCC, Inc.</strong> · (주)오토노머스피씨씨 — 바이브코딩 캠프 2회차 실습</sub><br>
+<sub><strong>AUTONOMOUS PCC, Inc.</strong> · (주)오토노머스피씨씨 — 바이브코딩 캠프 3회차 실습</sub><br>
 <sub><a href="https://github.com/AUTONOMOUS-PCC-Inc">github.com/AUTONOMOUS-PCC-Inc</a></sub>
 </div>
